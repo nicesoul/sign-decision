@@ -5,6 +5,7 @@
 data/*
 becode-signature-object-detection.zip
 !data/my
+*.csv
 # in this case I don't want vscode settings.json
 .vscode/ 
 
