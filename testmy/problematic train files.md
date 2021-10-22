@@ -171,6 +171,9 @@ a734731f913a8d6f6ee1feee307e9ca0.tif
 files counter is 736
 abfb6f72a5fa597faf5504a01e5e3d79_2.tif
 
+files counter is 23
+a26e1c8a414da8d4771588f32b9b0b2a.tif
+
 # false detection written text
 
 files counter is 131
